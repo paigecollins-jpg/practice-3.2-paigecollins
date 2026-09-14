@@ -2,8 +2,8 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-
-    border: solid black 1px;
+    /* Temp */
+    /* border: solid black 1px; */
 }
 
 body {
@@ -66,4 +66,32 @@ h3 {
 
 p {
     margin-bottom: 8px;
+}
+
+.frame {
+    border: 6px solid #111111;
+}
+
+.bg-red {
+    background: #D40920;
+    color: #FFFFFF;
+}
+
+.bg-blue {
+    background: #1356A2;
+    color: #FFFFFF;
+}
+
+.bg-yellow {
+    background: #F7D842;
+    color: #111111;
+}
+
+.bg-white {
+    background: #FFFFFF;
+    color: #111111;
+}
+
+.pad {
+    padding: 16px;
 }
