@@ -14,3 +14,6 @@ body {
     margin-right: auto;
 }
 
+nav {
+    border: soild black 1px;
+}
